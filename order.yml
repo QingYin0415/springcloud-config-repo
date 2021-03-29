@@ -1,6 +1,5 @@
 server:
   port: 8081
-  # 用户2小时内没有操作就退出登录（session有效时间为2小时）
 spring:
   datasource:
     druid:
